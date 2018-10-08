@@ -1,2 +1,2 @@
 # Practica_HerramientaGit
-# versión "1.0.1"
+# versión "1.0.2"
